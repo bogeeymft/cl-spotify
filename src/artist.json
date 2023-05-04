@@ -1,0 +1,57 @@
+{
+    "name": "Türkçe Rap",
+    "albumCover": "/images/albumCovers/sansar_salvo.jpg",
+    "releaseYear": "2014",
+    "tracks": [
+        {
+            "id": 1,
+            "name": "Ayık Ol",
+            "path": "/songs/Allame ft. Xir - Ayık Ol (Official Video) 💀 (64 kbps).mp3"
+        },
+        {
+            "id": 2,
+            "name": "Ateşten Gömlek",
+            "path": "/songs/Ateşten Gömlek (128 kbps).mp3"
+        },
+        {
+            "id": 3,
+            "name": "25",
+            "path": "/songs/Ati242 - 25 (Official Audio) (128 kbps).mp3"
+        },
+        {
+            "id": 4,
+            "name": "KRAL",
+            "path": "/songs/Critical - KRAL feat. Muti x Levo (Official Music Video) (128 kbps).mp3"
+        },
+        {
+            "id": 5,
+            "name": "No Risk No Fun",
+            "path": "/songs/Defkhan ft. Sehinsah & Zmn  -  No risk No fun (64 kbps).mp3"
+        },
+        {
+            "id": 6,
+            "name": "Kural Ne Bilmiyorum",
+            "path": "/songs/İstanbul Trip - Kural Ne Bilmiyorum _ Şam, Heja, Maestro, Xir, No.1, Ashoo (Official Video) (128 kbps).mp3"
+        },
+        {
+            "id": 7,
+            "name": "Mesela Yani",
+            "path": "/songs/Kayra - Mesela Yani (128 kbps).mp3"
+        },
+        {
+            "id": 8,
+            "name": "Düzmece",
+            "path": "/songs/Mode XL - Düzmece (128 kbps).mp3"
+        },
+        {
+            "id": 9,
+            "name": "The UNDERGROUND",
+            "path": "/songs/PMC Represents The UNDERGROUND (128 kbps).mp3"
+        },
+        {
+            "id": 10,
+            "name": "Kapalı Hava",
+            "path": "/songs/Yener Çevik - Kapalı Hava (128 kbps).mp3"
+        }
+    ]
+}
